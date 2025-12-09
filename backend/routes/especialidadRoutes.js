@@ -6,3 +6,4 @@ router.get('/', especialidadController.getAll);
 
 module.exports = router;
 
+

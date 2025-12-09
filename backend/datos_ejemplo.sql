@@ -26,3 +26,4 @@ INSERT INTO TipoMedic (descripcion) VALUES
 ('Antitusivos'),
 ('Cremas tópicas');
 
+

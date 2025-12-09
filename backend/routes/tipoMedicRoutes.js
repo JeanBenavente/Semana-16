@@ -6,3 +6,4 @@ router.get('/', tipoMedicController.getAll);
 
 module.exports = router;
 
+
